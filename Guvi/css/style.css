@@ -1,0 +1,232 @@
+
+.head
+{
+    display: table;
+    width: 100%; 
+    height: 100px;
+    box-shadow: 0 6px 16px rgba(105, 0, 243, 0.1);/*Optional*/
+    table-layout: fixed;
+    border-radius: 0 0 12px 12px; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+}
+.col-lg-3
+{
+    display: table-cell;
+    background-color: #ffffff;/*Optional*/
+}
+.col-lg-8
+{
+    display: table-cell;
+    background-color: #ffffff;/*Optional*/
+}
+.col-lg-8 a
+{
+    color: #404d6f;
+font-family: Montserrat;
+font-size: 19px;
+font-weight: 400;
+letter-spacing: 0.26px;
+}
+.col-lg-2
+{
+    display: table-cell;
+    background-color: #ffffff;/*Optional*/
+   
+}
+.col-lg-2 a
+{
+    color: #6320ee;
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 600;
+letter-spacing: 0.26px;
+float: right;
+}
+
+a{
+	height: 27px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 22px;
+font-weight: 400;
+letter-spacing: 0.26px;
+padding: 4px;
+}
+.id h5{
+
+	height: 30px;
+color: #0a0f0d;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 600;
+letter-spacing: 0.29px;
+text-transform: uppercase;
+}
+h5{
+	text-align: center;
+	
+}
+
+.dp{
+	margin-top: 25px;
+}
+
+.dp1 col-lg-1 img{
+	margin-left:72px;
+	margin-top: 25px;
+width: 111px;
+height: 112px;
+background-image: linear-gradient(180deg, #a9ffa9 0%, #11ffbd 100%);
+}
+.dp1 col-lg-2 img{
+	width: 140px;
+height: 141px;
+box-shadow: 0 0 12px rgba(133, 20, 232, 0.11);
+border-radius: 8px;
+}
+.
+.dp1 col-lg-9 h1{
+	height: 56px;
+color: #0a0f0d;
+font-family: Montserrat;
+font-size: 45px;
+font-weight: 500;
+letter-spacing: 0.54px;
+font-weight: 400;
+
+}
+.dp1 col-lg-9 p{
+	height: 25px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 400;
+letter-spacing: 0.48px;
+
+}
+.product-holder {
+    position: relative;
+    display: block;
+}
+
+.plus-image {
+    left: 60%;
+    top: 50%;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+.rc1{
+	/* Style for "Path 1190" */
+width: 164px;
+height: 54px;
+box-shadow: 0 0 4px rgba(133, 20, 232, 0.11);
+background-color: #ffffff;
+}
+.sub5{
+	/* Style for "Subtractio" */
+width: 28px;
+height: 26px;
+background-image: linear-gradient(180deg, #a9ffa9 0%, #11ffbd 100%);
+}
+.layer{
+	float: right;
+}
+.int ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+
+}
+.int ul li {
+  float: left;
+  border-radius: 100px;
+  width: 230px;
+  height: 54px;
+  box-shadow: 0 0 6px rgba(133,20,232,0.11);
+text-align: center;
+margin-top: 5px;
+margin-bottom: 5px;
+padding-top: 10px;
+
+
+}
+
+.col b{
+  width: 60px;
+height: 25px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 500;
+letter-spacing: 0.48px;
+text-transform: uppercase;
+/* Text style for "CGPA" */
+font-weight: 400;
+}
+.col h4{
+  width: 75px;
+height: 45px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 36px;
+font-weight: 500;
+letter-spacing: 0.86px;
+/* Text style for "7.24" */
+font-weight: 400;
+}
+.col h5{
+  /* Style for "SRM Univer" */
+width: 304px;
+height: 28px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 500;
+letter-spacing: 0.58px;
+/* Text style for "SRM Univer" */
+font-weight: 400;
+}
+.ler{
+  width: 1120px;
+height: 1166px;
+box-shadow: 0 0 24px rgba(133, 20, 232, 0.11);
+border-radius: 0 12px 12px;
+background-color: #ffffff;
+}
+
+.ler div img h4{
+  /* Style for "PYTHON" */
+width: 138px;
+height: 37px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 28px;
+font-weight: 600;
+letter-spacing: 1.23px;
+text-transform: uppercase;
+}
+.ler div img b{
+  /* Style for "Date :12/0" */
+width: 158px;
+height: 21px;
+color: #404d6f;
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 500;
+letter-spacing: 0.79px;
+float: right;;
+font-weight: 400;
+}
+.ler .row col-lg-4 img{
+  padding-top: 128px;
+  margin-top: 128px;
+}
+#grp{
+  /* Style for "Path 1181" */
+width: 177px;
+height: 170px;
+margin-top: 50px;
+}
